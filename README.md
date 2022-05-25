@@ -2,7 +2,7 @@
 Assembly programs to Mask Upper Nibble for that number should be loaded into the register and operation should be implemented on that loaded number .
 Calculated result should be displayed in the output .
 
-##Algorithm for Mask Upper Nibble:
+## Algorithm for Mask Upper Nibble:
 Step I : Load the number in AL.
 
 Step II : Mask the upper nibble.
@@ -14,7 +14,8 @@ Step IV : Stop.
 ![image](https://user-images.githubusercontent.com/98540267/170293233-cd778564-5911-4190-b6c0-15ee1cc097ef.png)
 
 
- ##Assembly programs
+ ## Assembly programs
+ 
 C:\programs>tasm upnib.asm
 
 Turbo Assembler  Version 3.0  Copyright (c) 1988, 1991 Borland International
